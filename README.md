@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arkajyoti Mukhopadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Ethical Hacker from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkajyotim&label=Profile%20views&color=0e75b6&style=flat" alt="arkajyotim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkajyotim" alt="arkajyotim" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Penetration Testing**
 
-- 🌱 I’m currently learning **React , JS**
+- 🌱 I’m currently learning **Kali Linux,OSINT tools,Malware Analysis.**
 
-- 🤝 I’m looking for help with **Learning React and js**
+- 🤝 I’m looking for help with **Networking**
 
 - 📫 How to reach me **arkajyoti.mukhopadhyay2016@gmail.com**
 
