@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arkajyoti mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkajyoti mukhopadhyay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arkajyoti-mukhopadhyay-5056b3189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkajyoti mukhopadhyay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rexonyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rexonyt" height="30" width="40" /></a>
 </p>
 
